@@ -1,4 +1,8 @@
 _repo: Stjarnornas-kungabarn-2-De-tre-En-tids-och-karaktersstudie-fran-drottning-Kristinas-dagar_49997
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49997-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -15,6 +19,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49997#Stjarnornas-kungabarn-2-De-tre-En-tids-och-karaktersstudie-fran-drottning-Kristinas-dagar
 gutenberg_issued: '2015-09-17'
 gutenberg_type: Text
 identifiers:
